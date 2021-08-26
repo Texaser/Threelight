@@ -1,0 +1,1 @@
+int Location(int u[4],int v[4],unsigned char id[4],int *X,int *Y,int *Z,int lampnum);
